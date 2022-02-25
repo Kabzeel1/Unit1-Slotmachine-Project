@@ -1,21 +1,19 @@
 body{
   text-align: center;
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/64/Creaci%C3%B3n_de_Ad%C3%A1n_%28Miguel_%C3%81ngel%29.jpg);
-  
 }
+
 #slot{
   display: grid;
   grid-template-columns: repeat(3, auto);
   width: 400px;
   margin: 10px auto;
   height: 300px;
-
   border-radius: 10px;
   background-image: url('https://i.pinimg.com/originals/44/6e/3b/446e3b79395a287ca32f7977dd83b290.jpg');
 }
 
-
-.item{
+.slot{
   font-family: "Permanent Marker", cursive;
   width: 100px;
   height: 100px;
@@ -34,11 +32,9 @@ body{
   border-radius: 50px;
   font-size: 30px;
   height: 50%;
-   
 }
 
 h1{
-
   font-size: 100px;
   color: #d7a62f;
   margin: 10px auto;
@@ -63,7 +59,6 @@ h2{
   color:#C34A36;
   width: 500px;
   font-style: oblique;
- 
   font-weight: 1000;
   font-style: italic;
   border-radius: 5px;

@@ -1,20 +1,19 @@
 # SLOT MACHINE.  [PLAY GAME](https://kabzeel1.github.io/Unit1-Slotmachine-Project/)
 # slot machines history?
-Slot machine have been around for many years now, they were initally introduced in the late 1800's and played mostly in casinos and places of such.
-But since we now have the power of the web we can make these games in our computers and play.
+Slot machines have been around for many years now. They were initially introduced in the late 1800s and mainly played in casinos and similar venues. But now we can make these games on our computers and play them anywhere.
 
 ## how to play this game.
 
-With this game you have a chance to win 1000 dollars, this will happen everytime you match the the characters in the board. 
+With this game, you have a chance to win 1000 dollars. This will happen every time you match 3 of the characters on the board.
 
 ![Play And Win](favicons/favicon_io/SLOT.png "Slot Machine")
 
 ## how the game was made.
-This game was made by the help of the following programing tools.
+This game was made by the help of the following programming tools.
 
 - ***Javascript*** : this was used to bring forth the behavior of the game.
 
-- ***HTML*** : which helped to link with all the other languages and make them compatable with the web.
+- ***HTML*** : which helped to link with all the other languages and make them compatible with the web.
 
 - ***CSS*** : CSS helped with the styling of the game.
 
